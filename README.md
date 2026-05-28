@@ -61,7 +61,7 @@ Una aplicación web desarrollada con **HTML5, CSS y JavaScript** que permite gen
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/torresdiaznicolassantiago-spe/ProyectoM1-Nicol-s-Torres-.git
+git clone  https://torresdiaznicolassantiago-spe.github.io/ProyectoM1-Nicol-s-Torres-/
 ```
 
 2. Entra en la carpeta del proyecto:
