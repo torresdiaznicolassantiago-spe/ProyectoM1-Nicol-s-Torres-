@@ -61,7 +61,7 @@ Una aplicación web desarrollada con **HTML5, CSS y JavaScript** que permite gen
 1. Clona el repositorio:
 
 ```bash
-git clone  https://torresdiaznicolassantiago-spe.github.io/ProyectoM1-Nicol-s-Torres-/
+git clone  https://github.com/torresdiaznicolassantiago-spe/ProyectoM1-Nicol-s-Torres-.git
 ```
 
 2. Entra en la carpeta del proyecto:
@@ -99,7 +99,8 @@ Este proyecto fue creado con el objetivo de practicar y mejorar habilidades en d
 
 Desarrollado por Nicolás Torres.
 
-* GitHub: https://github.com/torresdiaznicolassantiago-spe/ProyectoM1-Nicol-s-Torres-.git
+* GitHub:  https://torresdiaznicolassantiago-spe.github.io/ProyectoM1-Nicol-s-Torres-/
+
 
 ---
 
