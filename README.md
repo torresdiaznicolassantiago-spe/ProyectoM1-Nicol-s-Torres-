@@ -31,7 +31,7 @@ Una aplicación web desarrollada con **HTML5, CSS y JavaScript** que permite gen
 ## 📸 Vista previa
 
 ```md
-![Vista previa](./img/Fuincionamiento.png1)
+![Vista previa 1](./img/Fuincionamiento.png1)
 ![Vista previa 2](./img/Funcionamiento.png2.jpeg)
 ![Vista previa 3](./img/Funcionamiento.png3.jpeg)
 ![Vista previa 4](./img/Funcionamiento.png4.jpeg)
